@@ -13,7 +13,7 @@ This project is a fork of [ForgeGradle branch 'FG_1.2'](https://github.com/Minec
 
 [Example project found here](https://github.com/anatawa12/ForgeGradle-example)
 
-[Documentation found here](http://forgegradle.readthedocs.org/)
+[Documentation found here](https://mcforge.readthedocs.io/)
 
 ## How to replace ForgeGradle 1.2. with anatawa12's fork
 
